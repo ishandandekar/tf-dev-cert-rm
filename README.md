@@ -25,4 +25,4 @@ This roadmap includes courses, materials and resources to learn Tensorflow and n
 ### Contribute
 
 These courses are opinionated, I would love to get some reccomendations about resources. If you know better resources, please make sure to fork this repo and make a pull request.  
-**PS** If you want to partner-up, holla me up :D
+**PS** If you want to partner-up, holla me up :smile:
