@@ -9,6 +9,7 @@ This roadmap includes courses, materials and resources to learn Tensorflow and n
 - [Deep learning specialization](https://www.coursera.org/specializations/deep-learning)
 - [NLP Specialization](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) _(Optional)_
 - [Fast.ai courses](https://course.fast.ai/) _(Optional)_
+- [MLOps Course by Deeplearning.ai](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-mlops/) _(Optional)_
 
 **Practical knowledge**:
 
@@ -19,6 +20,7 @@ This roadmap includes courses, materials and resources to learn Tensorflow and n
 
 - Hands on Machine Learning by Aurelion Geron
 - Deep Learning Book by Ian Goodfellow
+- Deep Learning for Vision Systems by Mohamed Elgendy
 
 ### Contribute
 
