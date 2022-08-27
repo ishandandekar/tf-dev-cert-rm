@@ -1,4 +1,4 @@
-Hello and welcome to the roadmap. This is my **roadmap** to become a **[Tensorflow certified developer](https://www.tensorflow.org/certificate)**.
+Hello and welcome to the roadmap. This is a **roadmap** to become a **[Tensorflow certified developer](https://www.tensorflow.org/certificate)**.
 
 This roadmap includes courses, materials and resources to learn Tensorflow and neural networks, required to become a better Tensorflow developer. I am _currently_ using this roadmap to give the developer exam :smile:. This repository has all the notebooks and notes I have created to get the certificate. These resources/materials maybe in Hindi or English language.
 
