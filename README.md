@@ -16,7 +16,7 @@ This roadmap includes courses, materials and resources to learn Tensorflow and n
 
 **Practical knowledge**:
 
-- ✔️ [Daniel Bourke's Tensorflow Course](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
+- ✔️ [Daniel Bourke's Tensorflow Course](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/) ([notebooks)](Tensorflow_ztm_notebooks/))
 - [Advanced Tensorflow Techniques](https://www.deeplearning.ai/courses/tensorflow-advanced-techniques-specialization/) _(Optional)_
 
 **Books**:
