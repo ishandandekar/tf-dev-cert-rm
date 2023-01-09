@@ -9,7 +9,7 @@ This roadmap includes courses, materials and resources to learn Tensorflow and n
 
 - ✔️[Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - ✔️[Krish Naik live sessions](https://www.youtube.com/playlist?list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
-- ⌛[Deep learning specialization](https://www.coursera.org/specializations/deep-learning)
+- ✔️[Deep learning specialization](https://www.coursera.org/specializations/deep-learning)
 - [Deep Learning and computer vision with Tensorflow by Jose Portilia](https://www.udemy.com/share/101ryu3@oRGTd0JBuBXdYapiM6IvMkH2XPnpdnrqqrasOqlwWRQ-z2f2IezUTcqjuXyHHpz7dQ==/)
 - [NLP Specialization](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) _(Optional)_
 - [Fast.ai courses](https://course.fast.ai/) _(Optional)_
@@ -22,9 +22,9 @@ This roadmap includes courses, materials and resources to learn Tensorflow and n
 
 **Books**:
 
-- ⌛ Hands on Machine Learning by Aurelion Geron
+- ✔️ Hands on Machine Learning by Aurelion Geron
 - Deep Learning Book by Ian Goodfellow
-- Deep Learning for Vision Systems by Mohamed Elgendy
+- ⌛ Deep Learning for Vision Systems by Mohamed Elgendy
 
 ### Contribute
 
