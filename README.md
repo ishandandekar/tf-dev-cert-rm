@@ -24,7 +24,7 @@ This roadmap includes courses, materials and resources to learn Tensorflow and n
 
 - ✔️ Hands on Machine Learning by Aurelion Geron
 - Deep Learning Book by Ian Goodfellow
-- ⌛ Deep Learning for Vision Systems by Mohamed Elgendy
+- ✔️ Deep Learning for Vision Systems by Mohamed Elgendy
 
 ### Contribute
 
